@@ -2,6 +2,8 @@
 
 A simple React component that counts from 0 - 100 and then resets back to 0. This runs for infinity and yes, this is not meant to be functional in any way.
 
+[![Build Status](https://semaphoreci.com/api/v1/nimjetushar/utils/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/utils)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/86a61b646ab041c0b64e502b3d8be7a7)](https://www.codacy.com/app/tushar/Utils?utm_source=github.com&utm_medium=referral&utm_content=nimjetushar/Utils&utm_campaign=Badge_Grade)
 [![npm version](https://img.shields.io/npm/v/react-image-magnifiers.svg?style=flat)](https://npmjs.org/package/react-image-magnifiers "View this project on npm")
 [![npm downloads](https://img.shields.io/npm/dm/react-image-magnifiers.svg?style=flat-square)](https://www.npmjs.com/package/react-image-magnifiers)
 [![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
@@ -23,10 +25,19 @@ npm install && npm run build
 npm link
 ```
 
+## Quickstart
+
+```
+npx create-react-app my-app
+cd my-app
+npm install '@vyash5075/react-demo-module'
+npm start
+```
+
 ## Installation
 
 ```
-npm install dummy-counter
+npm install '@vyash5075/react-demo-module'
 ```
 
 ## Usage
@@ -62,5 +73,10 @@ import Dummy from '@vyash5075/react-demo-module'
 }
 
 ```
+
+## License
+
+[![GitHub license](https://img.shields.io/github/license/nimjetushar/Utils.svg?style=popout)](https://github.com/nimjetushar/Utils/blob/master/LICENSE)
+Copyright © 2022 vyash5075
 
 **This component was built for an article on how to publish a React component as a package to npm.**

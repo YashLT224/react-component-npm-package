@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/YashLT224/react-component-npm-package.git"
   },
-  "keywords": [],
+  "keywords": ["react","reactjs","counter","development"],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -38,4 +38,5 @@
   "files": [
     "dist"
   ]
+   
 }
