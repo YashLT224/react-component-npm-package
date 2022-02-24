@@ -4,9 +4,8 @@ A simple React component that counts from 0 - 100 and then resets back to 0. Thi
 
 [![Build Status](https://semaphoreci.com/api/v1/nimjetushar/utils/branches/master/shields_badge.svg)](https://semaphoreci.com/nimjetushar/utils)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/86a61b646ab041c0b64e502b3d8be7a7)](https://www.codacy.com/app/tushar/Utils?utm_source=github.com&utm_medium=referral&utm_content=nimjetushar/Utils&utm_campaign=Badge_Grade)
-[![npm version](https://img.shields.io/npm/v/react-image-magnifiers.svg?style=flat)](https://npmjs.org/package/react-image-magnifiers "View this project on npm")
-[![npm downloads](https://img.shields.io/npm/dm/react-image-magnifiers.svg?style=flat-square)](https://www.npmjs.com/package/react-image-magnifiers)
-[![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
+[![npm version](https://img.shields.io/npm/v/react-image-magnifiers.svg?style=flat)](https://www.npmjs.com/package/@vyash5075/react-demo-module "View this project on npm")
+[![npm downloads](https://img.shields.io/npm/dm/react-image-magnifiers.svg?style=flat-square)](https://www.npmjs.com/package/@vyash5075/react-demo-module)
 <a href="https://packagephobia.now.sh/result?p=rollup">
 <img src="https://packagephobia.now.sh/badge?p=rollup" alt="install size" >
 </a>
@@ -73,6 +72,14 @@ import Dummy from '@vyash5075/react-demo-module'
 }
 
 ```
+
+## Contributors ⚡
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/vyash5075"><img src="https://avatars.githubusercontent.com/u/44260505?v=4" width="114px;" alt=""/><br /><sub><b>Yash Verma</b></sub></a><br /><a href="https://github.com/vyash5075" title="Github"> 👨‍💻 </a></td>
+  </tr>
+</table>
 
 ## License
 
