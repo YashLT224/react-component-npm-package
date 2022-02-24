@@ -32,7 +32,7 @@ npm install dummy-counter
 ## Usage
 
 ```
-import Dummy, { ICounterProps } from 'dummy-counter'
+import Dummy, { ICounterProps } from '@vyash5075/react-demo-module'
 ...
 ```
 
@@ -49,7 +49,7 @@ To customise this component, pass in a class name to the `className` prop and st
 ```
 
 // your-component.js
-import Dummy from 'dummy-counter'
+import Dummy from '@vyash5075/react-demo-module'
 
 ...
 <Dummy className="dummy" />
