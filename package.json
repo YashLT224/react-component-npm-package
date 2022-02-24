@@ -1,6 +1,6 @@
 {
   "name": "@vyash5075/react-demo-module",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "React component as a npm package",
   "main": "dist/index.js",
   "scripts": {
