@@ -9,7 +9,7 @@ A simple React component that counts from 0 - 100 and then resets back to 0. Thi
 <img src="https://packagephobia.now.sh/badge?p=rollup" alt="install size" >
 </a>
 
-## How to use¯
+## How to use
 
 Clone this repo to your local computer, then run:
 
